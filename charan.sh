@@ -4,7 +4,7 @@ age=25
 
 if [ "$age" -gt 18 ] && [ "$age" -lt 30 ]
 then 
-   echo "valid age"
+   echo "this is valid age"
 else
-   echo "age not valid"
+   echo "this is not valid age"
 fi 
